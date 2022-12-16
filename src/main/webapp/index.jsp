@@ -10,7 +10,7 @@ Ad·
 https://www.digital-lync.com/
 Enroll in highest rated DevOps training with curriculum led by best trainers from top MNCs. Separate Yourself From The Crowd With Digital Lyncs hands on real time projects. 45 Days.
 		2nd Floor, Hitech City Rd,, Opp Cyber Towers, Jaihind Enclave, Hitech City, Hyderabad.</p>
-	<h1 style="color: green; font-size: 40px;" align="center">  aurora college</h1>
+	<h2 style="color: green; font-size: 40px;" align="center">  aurora college</h2>
 	<p>
 	B.Com - General  
 B.Com – Computer Applications  
